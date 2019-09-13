@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "nt",
+                "projectName": "watch",
+                "workingDirectory": "C:\\Users\\Yuri\\Desktop\\Nova pasta\test\\demo-nt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Debug (Launch)-WatchApplication<watch>",
+                "projectName": "watch",
+                "workingDirectory": "C:\\Users\\Yuri\\Desktop\\Nova pasta\test\\demo-nt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
